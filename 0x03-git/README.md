@@ -1,1 +1,1 @@
-my project partner
+my alx script
